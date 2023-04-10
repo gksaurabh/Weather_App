@@ -1,6 +1,9 @@
 # Weather_App
 This project was made to gain a better understanding of using React in a real world scenario. This app is built purely using React.js and Javascript. All the data is obtained by making calls to the OpenWeather API. 
 
+# Deployments
+This project is currently deployed using render.com. Please follow the link to view this project: https://weathermate.onrender.com
+
 ## Run Instrucitons
 
 In the project directory, you can run:
