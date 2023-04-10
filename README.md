@@ -1,9 +1,7 @@
 # Weather_App
-# Getting Started with Create React App
+This project was made to gain a better understanding of using React in a real world scenario. This app is built purely using React.js and Javascript. All the data is obtained by making calls to the OpenWeather API. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Run Instrucitons
 
 In the project directory, you can run:
 
